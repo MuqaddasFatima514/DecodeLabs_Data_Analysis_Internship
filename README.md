@@ -1,6 +1,6 @@
 # Excel Data Cleaning Portfolio
 
-This repository contains my data cleaning projects completed as part of my internship with **DecodeLabs**. Each project demonstrates my ability to clean, organize, and prepare raw datasets for analysis using Microsoft Excel.
+This repository contains my data cleaning projects completed independently. Each project demonstrates my ability to clean, organize, and prepare raw datasets for analysis using Microsoft Excel.
 
 ## Project 1: E-Commerce Dataset Cleaning
 
